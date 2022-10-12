@@ -67,7 +67,7 @@ section .title::after{
     font-size: 20px;
     color: #550404;
     padding: 0 5px;
-    background: #fff;
+    background: #550404(73, 183, 22);
     transform: translateX(-50%);
 }
 /* navbar styling */
@@ -89,7 +89,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #fff;
+    color: #550404;
     font-size: 35px;
     font-weight: 600;
 }
@@ -98,7 +98,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color: #550404;
 }
 .navbar .menu li{
     list-style: none;
@@ -106,7 +106,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: #550404;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -116,11 +116,11 @@ section .title::after{
     color: #550404;
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: #550404;
 }
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
+    color: #550404;
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -134,7 +134,7 @@ section .title::after{
     bottom: 10px;
     text-align: center;
     line-height: 45px;
-    color: #fff;
+    color: #550404;
     z-index: 9999;
     font-size: 30px;
     border-radius: 6px;
@@ -157,7 +157,7 @@ section .title::after{
     display: flex;
     background: url("images/banner.jpg") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: #550404;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -189,7 +189,7 @@ section .title::after{
 .home .home-content a{
     display: inline-block;
     background: #550404;
-    color: #fff;
+    color: #550404;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
@@ -232,7 +232,7 @@ section .title::after{
 .about .about-content .right a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #550404;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -402,7 +402,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
-    border-color: #fff;
+    border-color: #550404;
 }
 .owl-dots{
     text-align: center;
@@ -430,7 +430,7 @@ section .title::after{
 footer{
     background: #111;
     padding: 15px 23px;
-    color: #fff;
+    color: #550404;
     text-align: center;
 }
 footer span a{
